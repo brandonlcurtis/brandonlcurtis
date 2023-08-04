@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href <a href="https://www.linkedin.com/in/joshmadakor/">Cloud & Cybersecurity Professional</a>
+<h1>Hi, I'm Brandon! <br/><a href <a href="[https://www.linkedin.com/in/brandon-curtis-631637ba/]">Cloud & Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
